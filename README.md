@@ -8,7 +8,7 @@
 
 ### Стек технологий:
 
-<img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Django Rest framework-092E20?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-2980b9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAACVBMVEVGUViMoa/i5+sa4fYGAAAALElEQVQ4y2NgoAtghAMghwkZUFMBgoKJ0l/BqDdpoYCgG+iggA7eJEMBjQEA95EC+R9NCHIAAAAASUVORK5CYII="/> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF4500"/> <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Django Rest framework-092E20?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-2980b9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAACVBMVEVGUViMoa/i5+sa4fYGAAAALElEQVQ4y2NgoAtghAMghwkZUFMBgoKJ0l/BqDdpoYCgG+iggA7eJEMBjQEA95EC+R9NCHIAAAAASUVORK5CYII="/> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF4500"/> <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white"/> <img src='https://img.shields.io/badge/sqlite-sqlite?style=for-the-badge&logo=sqlite&labelColor=072B8A&color=072B8A'>
 
 ### Как развернуть проект:
 
